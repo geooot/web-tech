@@ -1,2 +1,2 @@
 # web-tech
-Repository for all the things I did in Web Technologies
+Repository for all the things I did in my Web Technologies class in High School.
